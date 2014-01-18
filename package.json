@@ -1,6 +1,6 @@
 {
   "name": "tualo-extjs-codemirror",
-  "version": "3.21.0",
+  "version": "3.21.1",
   "description": "A route module for express, adding the ext-js component of codemirror",
   "main": "./lib/ext.js",
   "scripts": {
@@ -18,6 +18,6 @@
   "license": "GPLv3",
 	"readmeFilename": "README.md",
 	"dependencies": {
-		"codemirror": ">=3.21.0"
+		"codemirror": "3.21.0"
 }
 }
